@@ -1,6 +1,5 @@
-Developed a Transformer-based sentiment analysis model using attention mechanisms.
-
 # Sentiment Analysis using RNN and Transformer
+Developed a Transformer-based sentiment analysis model using attention mechanisms.
 
 ## Project Overview
 This project focuses on sentiment analysis using deep learning approaches. The IMDB dataset is utilized to train RNN-based and Transformer-based models for text classification.
